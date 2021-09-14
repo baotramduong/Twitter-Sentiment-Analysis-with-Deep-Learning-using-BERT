@@ -8,11 +8,17 @@
 
 ## Data Source
 
+<img src = '../main/Data & Images/df.png'>
+
 ## Exploratory Data Analysis
+
+<img src = '../main/Data & Images/class_distribution.png'>
 
 ## Modeling
 
 ### Model Evaluation
+
+<img src = '../main/Data & Images/train.png'>
 
 ### Prediction
 
