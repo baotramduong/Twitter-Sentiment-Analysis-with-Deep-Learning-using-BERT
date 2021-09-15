@@ -24,7 +24,7 @@ It contains 3,085 tweets, with 5 emotions namely anger, disgust, happiness, surp
 
 ### Model Evaluation
 
-<img src = '../main/Data/train.png'>
+<img src = '../main/Data/train.png' height='65%' width='65%'>
 
 ### Prediction
 
