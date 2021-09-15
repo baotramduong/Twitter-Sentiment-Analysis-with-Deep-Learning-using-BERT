@@ -8,6 +8,8 @@
 
 ## Data Source
 
+<img src = '../main/Data/df_full.png' height='85%' width='85%'>
+
 <img src = '../main/Data/df.png' height='65%' width='65%'>
 
 We will use the [SMILE Twitter](https://www.kaggle.com/ashkhagan/smile-twitter-emotion-dataset) dataset. This dataset is collected and annotated for the SMILE project. This collection of tweets mentioning 13 Twitter handles associated with British museums was gathered between May 2013 and June 2015. It was created for the purpose of classifying emotions, expressed on Twitter towards arts and cultural experiences in museums.
