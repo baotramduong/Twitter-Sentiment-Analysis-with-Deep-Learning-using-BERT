@@ -22,7 +22,11 @@
 
 ### Prediction
 
+<img src = '../main/Data/prediction.png' height='25%' width='25%'>
+
 ## Future Work
+
+* Add additional hidden layers on top of BERT-base
 
 # Preference
 Anastassiou, A. (n.d.). Sentiment Analysis with Deep Learning using BERT (MOOC). Coursera. https://www.coursera.org/projects/sentiment-analysis-bert.
