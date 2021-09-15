@@ -31,6 +31,7 @@ Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of De
 
 Taylor, W. L. (1953). "Cloze procedure": a new tool for measuring readability. Journalism Quarterly, 30, 415–433. https://www.gwern.net/docs/psychology/writing/1953-taylor.pdf.
 
+Tran, C. (n.d.). Fine-tuning bert for sentiment analysis. Chris Tran. Retrieved September 15, 2021, from https://chriskhanhtran.github.io/_posts/2019-12-25-bert-for-sentiment-analysis/. 
+
 Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.3187909.v2.
 
-https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
