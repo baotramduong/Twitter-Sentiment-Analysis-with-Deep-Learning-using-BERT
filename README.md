@@ -10,6 +10,10 @@
 
 <img src = '../main/Data/df.png' height='65%' width='65%'>
 
+We will use the [SMILE Twitter](https://www.kaggle.com/ashkhagan/smile-twitter-emotion-dataset) dataset. This dataset is collected and annotated for the SMILE project. This collection of tweets mentioning 13 Twitter handles associated with British museums was gathered between May 2013 and June 2015. It was created for the purpose of classifying emotions, expressed on Twitter towards arts and cultural experiences in museums.
+
+It contains 3,085 tweets, with 5 emotions namely anger, disgust, happiness, surprise, sadness and the 6th label being not-relevant.
+
 ## Exploratory Data Analysis
 
 <img src = '../main/Data/class_distribution.png'>
