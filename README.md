@@ -1,4 +1,4 @@
-# Sentiment Analysis with Deep Learning using BERT and Hugging Face 
+# Twitter Sentiment Analysis with Deep Learning using BERT and Hugging Face 
 
 ## Blog
 
@@ -37,15 +37,22 @@ It contains 3,085 tweets, with 5 emotions namely anger, disgust, happiness, surp
 ## Future Work
 
 * Add additional hidden layers on top of BERT-base
+* Build a custom classifier.
+* Correct class imbalance.
 
 # Preference
+Alammar, J. (2018, December 3). The illustrated bert, elmo, and co. (how nlp cracked transfer learning). The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) — Jay Alammar — Visualizing machine learning one concept at a time. Retrieved September 15, 2021, from https://jalammar.github.io/illustrated-bert/.
+
 Anastassiou, A. (n.d.). Sentiment Analysis with Deep Learning using BERT (MOOC). Coursera. https://www.coursera.org/projects/sentiment-analysis-bert.
+
+Chaffey, D. (2021, July 23). Global social media statistics research summary [updated 2021]. Smart Insights. Retrieved September 16, 2021, from https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/.
 
 Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. NAACL. https://arxiv.org/abs/1810.04805.
 
-Taylor, W. L. (1953). "Cloze procedure": a new tool for measuring readability. Journalism Quarterly, 30, 415–433. https://www.gwern.net/docs/psychology/writing/1953-taylor.pdf.
+Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K. & Zettlemoyer, L. (2018). Deep contextualized word representations (cite arxiv:1802.05365Comment: NAACL 2018.
 
-Tran, C. (n.d.). Fine-tuning bert for sentiment analysis. Chris Tran. Retrieved September 15, 2021, from https://chriskhanhtran.github.io/_posts/2019-12-25-bert-for-sentiment-analysis/. 
+Taylor, W. L. (1953). “Cloze procedure”: a new tool for measuring readability. Journalism Quarterly, 30, 415–433. https://www.gwern.net/docs/psychology/writing/1953-taylor.pdf.
 
-Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.3187909.v2.
+Tran, C. (n.d.). Fine-tuning bert for sentiment analysis. Chris Tran. Retrieved September 15, 2021, from https://chriskhanhtran.github.io/_posts/2019-12-25-bert-for-sentiment-analysis/.
 
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł. & Polosukhin, I. (2017). Attention is all you need. Advances in Neural Information Processing Systems (p./pp. 5998–6008). https://arxiv.org/abs/1706.03762
